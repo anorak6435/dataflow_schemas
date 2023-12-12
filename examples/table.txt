@@ -1,0 +1,3 @@
+table hello "hello.csv".
+table sec "sec.csv".
+table third "thir.csv".

@@ -1,0 +1,3 @@
+table abba "abba.csv".
+table songs "songs.csv".
+merge abba on titles songs on titles inner.
